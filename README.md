@@ -1,10 +1,10 @@
-<h2 data-importer="text" align="center">Hi 👋! My name is Onda and I'm a College Student at Batam State Polytechnic, from Indonesia</h2>
-
-###
-
 <div data-importer="image" align="center">
   <img data-importer="image" height="200" src="https://i.pinimg.com/originals/29/7c/bb/297cbb4ffe4b7a96cbc1d913917dad27.gif"  />
 </div>
+
+###
+
+<h2 data-importer="text" align="center">Hi 👋! My name is Onda and I'm a College Student at Batam State Polytechnic, from Indonesia</h2>
 
 ###
 
